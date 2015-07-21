@@ -8,6 +8,7 @@ The experiments have been carried out with a group of 30 volunteers within an ag
 
 # Code Description
 The following steps describes the code functionalities:
+
 1) read individual files from train and test set including subject, activity and feature names files;
 
 2) rename attributes from train and test set;
