@@ -25,8 +25,11 @@ The following steps describes the code functionalities:
   
 # Test
 The code can be run as long as the Samsung data is in your working directory - use setwd(directory)
-source("run_analysis.R") -> a tidyData.txt file is created
+source("run_analysis.R") -> a tidyData.txt file is created only with numeric variables
+
 codeBook.md describes the variables used
+
+
 
 # Contributers
 Angela Pimentel
