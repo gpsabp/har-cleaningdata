@@ -1,6 +1,6 @@
 # har-cleaningdata
 Prepare tidy data that can be used for later analysis;
-Project for the Getting and Cleaning Data courseara from the Johns Hopkins University
+Project for the Getting and Cleaning Data coursera from the Johns Hopkins University
 
 # Dataset
 Human Activity Recognition Using Smartphones Dataset;
